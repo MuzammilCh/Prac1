@@ -1,0 +1,131 @@
+.main{
+    width: 1000px;
+    height: 540px;
+    background: #f44336;
+}
+.row1{
+    width: 1000px;
+    height: 100px;
+    background: #e91e63;
+    font-size: 30px;
+    text-align: center;
+}
+.row2{
+    width: 1000px;
+    height: 40px;
+    background-color: #9c27b0;
+    text-align: center;
+    color: white;
+    font-size: 25px;
+}
+.col1{
+    width: 200px;
+    height: 40px;
+    background-color: #673ab7;
+    float: left;
+}
+.col2{
+    width: 200px;
+    height: 40px;
+    background-color: #3f51B5;
+    float: left;
+}
+.col3{
+    width: 200px;
+    height: 40px;
+    background-color: #ffC107;
+    float: left;
+}
+.col4{
+    width: 200px;
+    height: 40px;
+    background-color: #2196f3;
+    float: left;
+}
+.col5{
+    width: 200px;
+    height: 40px;
+    background-color: #03a9f4;
+    float: left;
+}
+.row3{
+    width: 1000px;
+    height: 200px;
+    background-color: #9e9e9e;
+}
+.col6{
+    width: 250px;
+    height: 200px;
+    background-color: #ffeb3b;
+    float: left;
+    text-align: center;
+    font-size: 25px;
+}
+.col7{
+    width: 750px;
+    height: 200px;
+    background-color: #8Bc34a;
+    float: left;
+}
+.col8{
+    width: 250px;
+    height: 40px;
+    background-color: #f1B5;
+
+}
+.col9{
+    width: 250px;
+    height: 40px;
+    background-color: #09a9b4;
+}
+.col10{
+    width: 250px;
+    height: 40px;
+    background-color: #2196f3;
+}
+.col11{
+    width: 250px;
+    height: 40px;
+    background-color: #ffC107;
+}
+.col12{
+    width: 250px;
+    height: 40px;
+    background-color: #03a9f4;
+} 
+.row4{
+    width: 1000px;
+    height: 50px;
+    background-color: #09a9b4;
+    font-size: 50px;
+    color: white;
+    text-align: center;
+}
+.row5{
+    width: 1000px;
+    height: 100px;
+    background-color: #795548;
+}
+.col13{
+    width: 330px;
+    height: 100px;
+    float: left;
+    background-color: #8Bc34a;
+}
+.col14{
+    width: 330px;
+    height: 100px;
+    float: left;
+    background-color: #ffeb3b;
+}
+.col15{
+    width: 330px;
+    height: 100px;
+    float: left;
+}
+.row6{
+    width: 1000px;
+    height: 50px ;
+    text-align: center;
+    font-size: 30px;
+}
